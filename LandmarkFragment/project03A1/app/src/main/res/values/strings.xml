@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">A1</string>
+    <array name="chicago_landmarks">
+        <item>Museum of Science and Industry</item>
+        <item>Wrigley Field</item>
+        <item>Lincoln Park Zoo</item>
+        <item>Sears Tower</item>
+        <item>The Art Institute of Chicago</item>
+        <item>Navy Pier</item>
+    </array>
+    <array name="landmark_urls">
+        <item>https://www.msichicago.org</item>
+        <item>https://www.mlb.com/cubs/ballpark</item>
+        <item>https://www.lpzoo.org</item>
+        <item>https://www.willistower.com</item>
+        <item>https://www.artic.edu</item>
+        <item>https://navypier.org</item>
+    </array>
+</resources>

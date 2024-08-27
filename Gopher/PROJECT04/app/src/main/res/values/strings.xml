@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">project4</string>
+    <string name="perm_play_game">Gopher Hunting Game</string>
+</resources>
